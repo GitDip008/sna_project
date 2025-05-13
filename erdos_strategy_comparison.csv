@@ -1,0 +1,4 @@
+Strategy,Nodes Covered,Max Erdos Number,Std Dev
+Deg + Closeness,3578,3,0.4406854692817799
+Deg + Betweenness,3578,3,0.4406854692817799
+Highest Degree,3578,3,0.4406854692817799

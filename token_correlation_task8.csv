@@ -1,0 +1,4 @@
+Metric,Token Column,Pearson Correlation,p-value
+retweet_count,num_tokens,-0.046380420249091205,0.003346054195392458
+reply_count,num_tokens,-0.03453075507207772,0.028970671833189077
+like_count,num_tokens,-0.06041417544483186,0.0001317168931646041

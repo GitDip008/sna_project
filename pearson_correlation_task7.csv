@@ -1,0 +1,3 @@
+Metric 1,Metric 2,Pearson Correlation,p-value
+retweet_count,like_count,0.9332046604660122,0.0
+reply_count,like_count,0.4128766333901662,1.7101183726579027e-164
